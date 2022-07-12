@@ -1,12 +1,12 @@
 # **The Lifespan of a Kpop Group** #
 
-The data used for this repository was obtained through Kaggle [thanks to dbkpop](https://www.kaggle.com/code/mpwolke/kpop-idols-boy-groups/data) and is used for my Code Kentucky data analysis project for July 2022.
+The data used for this repository was obtained through Kaggle [thanks to dbkpop](https://www.kaggle.com/code/mpwolke/kpop-idols-boy-groups/data).
 
 I will be creating a project to analyze data on kpop boy groups, specifically to determine how many groups make it past the so-called "seven year curse" in their original formation. It's common practice in the industry for kpop artists, more commonly known as "idols," to sign contracts for a period of seven years once they are set to debut as a group. However, by the time those seven years are up, many groups experience changes within their ranks; it could be member losses, a total disbandment, or an indefinite hiatus. I want to examine for often these changes occur.
 
 This is a project that is meant to help me begin my journey to learning Python and is my submission for the final project in my Code Kentucky data analysis 1 course.
 
-If you'd like to contact me, you can do so at alisha.copley@gmail.com.
+If you'd like to contact me, you can do so at rjickyrick@gmail.com.
 
 # **Project Plan** #
 
