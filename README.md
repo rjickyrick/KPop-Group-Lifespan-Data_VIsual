@@ -4,7 +4,7 @@ The data used for this repository was obtained through Kaggle [thanks to dbkpop]
 
 I will be creating a project to analyze data on kpop boy groups, specifically to determine how many groups make it past the so-called "seven year curse" in their original formation. It's common practice in the industry for kpop artists, more commonly known as "idols," to sign contracts for a period of seven years once they are set to debut as a group. However, by the time those seven years are up, many groups experience changes within their ranks; it could be member losses, a total disbandment, or an indefinite hiatus. I want to examine for often these changes occur.
 
-This is a project that is meant to help me begin my journey to learning Python and is my submission for the final project in my Code Kentucky data analysis 1 course.
+This is a project that is meant to help me begin my journey to learning Python.
 
 If you'd like to contact me, you can do so at rjickyrick@gmail.com.
 
